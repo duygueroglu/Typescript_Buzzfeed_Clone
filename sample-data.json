@@ -1,0 +1,69 @@
+{
+    "quizId":"3483j33",
+    "title":"What cheese are you?",
+    "subtitle": "This quiz isn't cheesy or anything like that..",
+    "content":[
+        {
+            "id":0,
+            "text":"Pick a vacation destination:",
+            "questions": [
+                {
+                    "text":"New York",
+                    "image":"https://images.unsplash.com/photo-1522083165195-3424ed129620?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1297&q=80",
+                    "alt":"Photo of Brooklyn Bridge during daytime",
+                    "credit":"Colton Duke"
+                },
+                {
+                    "text":"Paris",
+                    "image":"https://images.unsplash.com/photo-1509439581779-6298f75bf6e5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHBhcmlzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                    "alt":"Photo of Arc de Triomphe",
+                    "credit":"Arthur Humeau"
+                },
+                {
+                    "text":"London",
+                    "image":"https://images.unsplash.com/photo-1534011640498-530cfd0e854a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGJpZyUyMGJlbiUyMGxvbmRvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+                    "alt":"Westminster Abbey Cathedral",
+                    "credit":"Charles Postiaux"
+                }
+            ]
+        },
+        {
+            "id":1,
+            "title":"Pick a home:",
+            "questions":[
+                {
+                    "text":"Traditional",
+                    "image":"https://images.unsplash.com/flagged/photo-1508144389597-1b8135276ac9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8dHJhZGl0aW9uYWwlMjBob21lfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                    "alt":"Focus photography of building windows",
+                    "credit":"Clarissa Budiman"
+                },
+                {
+                    "text":"Modern",
+                    "image":"https://images.unsplash.com/photo-1600585154526-990dced4db0d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bW9kZXJuJTIwaG9tZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+                    "alt":"Editorial architecture",
+                    "credit":"R Architecture"
+                },
+                {
+                    "text":"House",
+                    "image":"https://images.unsplash.com/photo-1570129477492-45c003edd2be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aG91c2V8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+                    "alt":"Marblehead neck houses",
+                    "credit":"Todd Kent"
+                },
+                {
+                    "text":"Mountains",
+                    "image":"https://images.unsplash.com/photo-1584098731526-e3924fad98db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+                    "alt":"Wooden house in Iseltwald",
+                    "credit":"Aswathy N."
+                }
+            ]
+        }
+    ],
+    "answers":[
+        {
+            "combination":["New York", "Traditional"],
+            "text":"Blue Cheese",
+            "image":"https://images.unsplash.com/photo-1626957341926-98752fc2ba90?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ymx1ZSUyMGNoZWVzZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=900&q=60",
+            "alt":"blue cheese"
+        }
+    ]
+}
