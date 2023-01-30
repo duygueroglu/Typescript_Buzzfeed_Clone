@@ -2,12 +2,19 @@ import React, { useState, useEffect} from 'react';
 import Title from './components/Title';
 import { QuizData, Content } from '../interfaces'
 import QuestionsBlock from './components/QuestionsBlock';
+import AnswerBlock from "./components/AnswerBlock"
 
 const App =() => {
 
   const [quiz, setQuiz] = useState<QuizData | null>()
   const [chosenAnswerItems, setChosenAnswerItems] = useState<string[]>([])
-
+  const [ unansweredQuestionIds, setUnansweredQuestionIds] = useState<number[] | undefined>([])
+  const [showAnswer, setShowAnswer] = useState<boolean>(false)
+  
+  type ReduceType = {
+        id?: {}
+    }
+  
   console.log(setChosenAnswerItems)
   const fetchData = async () => {
     try {
